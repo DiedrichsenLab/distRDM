@@ -16,6 +16,8 @@ close all
 %% FUNCTION
 sj = 10;
 
+% HEllo
+
 %Parameters
 dPath = 'Z:\data\super_cerebellum\sc1\RegionOfInterest\'; %Data path
 nSjs  = 21; %Number of subjects
